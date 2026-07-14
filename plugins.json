@@ -1,0 +1,18 @@
+{
+  "cli": {
+    "version": "1.2.10",
+    "downloadUrl": "https://raw.githubusercontent.com/whoezio/encrypt-builds/main/encrypt-cli.exe",
+    "fileSize": "89 MB"
+  },
+  "plugins": [
+    {
+      "id": "csv-viewer",
+      "name": "CSV 胨格预览",
+      "version": "1.0.0",
+      "description": "以表格形式渲染 CSV 文件",
+      "icon": "📊",
+      "downloadUrl": "",
+      "fileSize": "3.8 KB"
+    }
+  ]
+}
